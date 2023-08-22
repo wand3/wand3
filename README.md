@@ -1,5 +1,7 @@
-<h2 align="center">Hello World!
-<h4 align="center">I'm Babawande 👋
+<h2 align="center">Hello World! 🗺️
+<h4 align="center">I'm Babawande 👋,
+<h5 align="center">A Software/Web Developer with a Keen eye for Design ever ready to put in a plethora of ideas and best practices to what comes next.
+
 
 
 
