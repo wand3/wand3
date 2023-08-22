@@ -22,9 +22,12 @@
 <h2 align="left">Blog posts 🔜</h2>
 
 <h2 align="left">Projects 📁</h2>
+
 <!-- [![](https://img.shields.io/badge/-📝%%2020Summarizer-000)](https://github.com/adamalston/Summarizer) -->
 [![](https://img.shields.io/badge/-🧬%20%20Patient%20Information%20System-000)](https://github.com/wand3/patient-information-system)
-[![](https://img.shields.io/badge/-🔐%20%20Flask Authentication%20-000)](https://github.com/wand3/Authentication-flask-login)
+
+[![](https://img.shields.io/badge/-🔐%20%20Flask%20Authentication%20-000)](https://github.com/wand3/Authentication-flask-login)
+
 [![](https://img.shields.io/badge/-🌐%20%20CEase%20-000)](https://github.com/wand3/CEase)🏗️
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=wand3&theme=transparent)](https://git.io/streak-stats)
