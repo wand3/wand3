@@ -30,6 +30,8 @@
 
 [![](https://img.shields.io/badge/-🗂️%20%20File%20Management%20System%20(Node.js/ES6)%20-000)](https://github.com/wand3/file-management-system)
 
+[![](https://img.shields.io/badge/-🗂️%20%20Context%20Aware%20AI-Chatbot%20(Node.js/ES6)%20-000)](https://github.com/wand3/Context-Aware-AI-Chatbot)
+
 [![](https://img.shields.io/badge/-🌐%20%20CEase%20-000)](https://github.com/wand3/CEase)🏗️
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=wand3&theme=transparent)](https://git.io/streak-stats)
