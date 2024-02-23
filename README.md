@@ -28,7 +28,7 @@
 
 [![](https://img.shields.io/badge/-🔐%20%20Flask%20Authentication%20-000)](https://github.com/wand3/Authentication-flask-login)
 
-[![](https://img.shields.io/badge/-🗂️%20%20File-Management-System%20(Node.js/ES6)%20-000)](https://github.com/wand3/file-management-system)
+[![](https://img.shields.io/badge/-🗂️%20%20File%20Management%20System%20(Node.js/ES6)%20-000)](https://github.com/wand3/file-management-system)
 
 [![](https://img.shields.io/badge/-🌐%20%20CEase%20-000)](https://github.com/wand3/CEase)🏗️
 
