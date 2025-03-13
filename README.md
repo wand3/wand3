@@ -4,7 +4,7 @@
 
 <h2 align="center">Connect with me ⛓️</h2>
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/_phenomenal___?style=social)](https://twitter.com/intent/follow?screen_name=_phenomenal___) 
+[![Twitter Follow](https://img.shields.io/twitter/follow/_phenomenal___?style=social)](https://twitter.com/intent/follow?screen_name=Babawand3) 
 
 
 
@@ -33,8 +33,6 @@
 [![](https://img.shields.io/badge/-🤖%20%20Context%20Aware%20AI%20Chatbot%20(Node.js/ES6)%20-000)](https://github.com/wand3/Context-Aware-AI-Chatbot)
 
 [![](https://img.shields.io/badge/-🌐%20%20CEase%20-000)](https://github.com/wand3/CEase)🏗️
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=wand3&theme=transparent)](https://git.io/streak-stats)
 
 
 <h2 align="left"> Profile Trophies 🏆</h3>
