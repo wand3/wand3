@@ -2,9 +2,9 @@
 <h4 align="center">I'm Babawande 👋,
 <h6 align="center">A Software Engineer/Web Developer ever ready to put in a plethora of ideas and best practices to what comes next.
 
-<h2 align="center">Connect with me ⛓️</h2>
+<h2 align="center">Connect with me ⛓️ </h2>
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/_phenomenal___?style=social)](https://twitter.com/intent/follow?screen_name=Babawand3) 
+[![Twitter Follow](https://img.shields.io/twitter/follow/babawand3?style=social)](https://twitter.com/intent/follow?screen_name=Babawand3) 
 
 
 
@@ -19,11 +19,11 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 
 
-<h2 align="left">Blog posts 🔜</h2>
-
 <h2 align="left">Projects 📁</h2>
 
 <!-- [![](https://img.shields.io/badge/-📝%%2020Summarizer-000)](https://github.com/adamalston/Summarizer) -->
+[![](https://img.shields.io/badge/-🌐%20%20KASUWA-000)](https://github.com/wand3/KASUWA)
+
 [![](https://img.shields.io/badge/-🧬%20%20Patient%20Information%20System-000)](https://github.com/wand3/patient-information-system)
 
 [![](https://img.shields.io/badge/-🔐%20%20Flask%20Authentication%20-000)](https://github.com/wand3/Authentication-flask-login)
@@ -33,6 +33,8 @@
 [![](https://img.shields.io/badge/-🤖%20%20Context%20Aware%20AI%20Chatbot%20(Node.js/ES6)%20-000)](https://github.com/wand3/Context-Aware-AI-Chatbot)
 
 [![](https://img.shields.io/badge/-🌐%20%20CEase%20-000)](https://github.com/wand3/CEase)🏗️
+
+<h2 align="left">Blog posts 🔜</h2>
 
 
 <h2 align="left"> Profile Trophies 🏆</h3>
